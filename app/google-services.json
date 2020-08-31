@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "877413689304",
+    "firebase_url": "https://videomeetingsj.firebaseio.com",
+    "project_id": "videomeetingsj",
+    "storage_bucket": "videomeetingsj.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:877413689304:android:8e9717613a699ee9a634ad",
+        "android_client_info": {
+          "package_name": "com.dario.carrizo.app.videomeeting"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "877413689304-mirrsma6uf58iphprviae1uhe0vp48ue.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMP3YxoPeOj3wokylVgBk6oV7x_Nj_tWk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "877413689304-mirrsma6uf58iphprviae1uhe0vp48ue.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
